@@ -2,5 +2,5 @@
 {
   "contributors": "https://script.google.com/macros/s/AKfycbzxscsmqzrt9d__dgXelS37lv84HIn9JDr4ywfG0gsS_twv6vnR/exec",
   "label": "cla: yes",
-  "message": "Thank you for your pull request and welcome to our community. We require contributors to sign our Contributor License Agreement, and we don't seem to have you on file. In order for us to review and merge your code, please sign the CLA at https://www.nativescript.org/cla.\nCLA has not been signed by users: {{usersWithoutCLA}}.\nAfter signing the CLA, you can ask me to recheck this PR by posting @cla-bot check as a comment to the PR."
+  "message": "Thank you for your pull request and welcome to our community. We require contributors to sign our Contributor License Agreement, and we don't seem to have you on file. In order for us to review and merge your code, please sign the CLA at https://www.nativescript.org/cla.\nCLA has not been signed by users: {{usersWithoutCLA}}.\nAfter signing the CLA, you can ask me to recheck this PR by posting `@cla-bot check` as a comment to the PR."
 }
