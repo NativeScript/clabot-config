@@ -1,1 +1,2 @@
 # clabot-config
+test
