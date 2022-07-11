@@ -1,6 +1,6 @@
 
 {
-  "contributors": "https://script.google.com/macros/s/AKfycbx_kKgGWR0i_K7BooN0O6IG6r8ktjzJAUl2tWSZYYiwAZvOKChkmCgmjFrZR_ZyFeoc2Q/exec",
+  "contributors": "https://script.google.com/macros/s/AKfycbwLNpn7AvHCBjS-jsI3L2D0o3WZddiF76RrNESpWeGbg8MXdJLkZBjH2odPWPaUAzKa1A/exec",
   "label": "cla: yes",
   "message": "Thank you for your pull request and welcome to our community. We require contributors to sign our Contributor License Agreement, and we don't seem to have you on file. In order for us to review and merge your code, please sign the CLA at https://www.nativescript.org/cla.\nCLA has not been signed by users: {{usersWithoutCLA}}.\nAfter signing the CLA, you can ask me to recheck this PR by posting `@cla-bot check` as a comment to the PR."
 }
